@@ -1213,3 +1213,64 @@ button[aria-label="User Settings"] svg , button[aria-label="Deafen"] svg, button
 .after_inlineCode-1KfVgj, .before_inlineCode-1G9rTK, .inlineCode-2ngu6Y {
     background: #9e9e9e;
 }
+.searchResultMessage-1fxgXh.hit-1fVM9e {
+    position: relative;
+    z-index: 1;
+    max-height: none;
+    -webkit-box-shadow: 0 0 10px 6px #2f313600;
+    box-shadow: 0 0 10px 6px #2f313600;
+    background-color: #36393f00;
+    border: 1px solid #202225;
+    border-radius: 4px;
+    cursor: auto;
+}
+.searchResult-9tQ1uo:before {
+	display: none;
+}
+.channelName-1JRO3C, .searchHeader-2XoQg7 {
+    background: #bfbfbf;
+}
+
+#search-results--1 {
+	background-color:white;
+}
+
+.wrapper-2qzCYF.minimum-28Z35l {
+	background-color:rgb(254, 237, 208);
+}
+
+.expandedFolderIconWrapper-1xLaU- svg path {
+    visibility: hidden;
+}
+
+.expandedFolderIconWrapper-1xLaU- svg {
+    background-image: url("https://win98icons.alexmeub.com/icons/png/directory_open_cool-0.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+
+.folder-21wGz3.hover-2ji_A7 {
+	background-color:#bfbfbf;
+
+}
+
+.base-gE7OpD, .expandedFolderIconWrapper-1xLaU- {
+	background-color:#fff;
+}
+
+.uploadModal-2ifh8j .inner-3nWsbo {
+  color:black;
+}
+
+.theme-dark .footer-3mqk7D, .uploadModal-2ifh8j .inner-3nWsbo, .theme-dark .uploadModal-2ifh8j {
+  background-color:#bfbfbf;
+}
+.wrapper-39oAo3 {
+	background-color:white;
+}
+
+.actionButton-uPB8Fs.highlight-Lf97TE {
+	background-color:rgb(254, 237, 208);
+}
